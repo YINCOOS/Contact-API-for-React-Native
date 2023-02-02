@@ -3,8 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "tsc -w & nodemon dist/app.js",
-    "compile": "tsc -w"
+    "start": "tsc -w & node dist/app.js",
+    "dev": " nodemon dist/app.js",
+    "compile": "tsc -w "
   },
   "dependencies": {
     "@types/http-errors": "^2.0.1",
