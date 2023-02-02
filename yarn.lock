@@ -349,6 +349,14 @@ basic-auth@~2.0.0:
   dependencies:
     safe-buffer "5.1.2"
 
+bcrypt-updated@^5.0.6:
+  version "5.0.6"
+  resolved "https://registry.yarnpkg.com/bcrypt-updated/-/bcrypt-updated-5.0.6.tgz#a3cdbed226d31d293608d69216e96d7d5f6c6cd5"
+  integrity sha512-1boEXJ35+JA/HdllcbU1c1jOvyTY9p7zvyeR3j01glgRJAk+wHs/2Ou6rxq0Sn7Mw6kIWcYY2fFYJPdEcJWzcQ==
+  dependencies:
+    "@mapbox/node-pre-gyp" "^1.0.10"
+    node-addon-api "^5.0.0"
+
 bcrypt@^5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/bcrypt/-/bcrypt-5.1.0.tgz#bbb27665dbc400480a524d8991ac7434e8529e17"
