@@ -26,6 +26,7 @@
     "multer-storage-cloudinary": "^4.0.0",
     "nodemon": "^2.0.20",
     "path": "^0.12.7",
+    "rebuild": "^0.1.2",
     "sequelize": "^6.28.0",
     "sqlite3": "^5.1.4"
   },
